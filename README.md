@@ -1,2 +1,2 @@
 # SlashLang
-A programming language written in Java
+A basic Java Library for BestDeveloper and BestDodger.
