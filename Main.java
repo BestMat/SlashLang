@@ -1,10 +1,11 @@
+// Author: Yuvanth B, ©2021 - Slashlang - BestDeveloper
 package com.bestmat;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-// Author: Yuvanth B, ©2021 - Slashlang
+
 public class Main {
     static void print(String a){
       System.out.println(a);
@@ -70,6 +71,6 @@ public class Main {
         return j;
     }
     public static void main(String[] args) {
-       
+       System.out.println("Welcome to Slashlang");
     }
 }
